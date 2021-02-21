@@ -1,0 +1,52 @@
+ ID: 1, Date: Tue May  5 18:22:48 2020
+, Sum: 0
+ID: 2, Date: Tue May  5 18:23:31 2020
+, Sum: 0
+ID: 3, Date: Tue May  5 18:24:21 2020
+, Sum: 0
+ID: 4, Date: Tue May  5 18:27:20 2020
+, Sum: 48
+ID: 5, Date: Tue May  5 18:50:11 2020
+, Sum: 48
+ID: 6, Date: Tue May  5 18:50:47 2020
+, Sum: 48
+ID: 7, Date: Tue May  5 19:08:27 2020
+, Sum: 5127
+ID: 8, Date: Tue May  5 19:10:28 2020
+, Sum: 0
+ID: 9, Date: Tue May  5 20:48:27 2020
+, Sum: 249
+ID: 10, Date: Tue May  5 20:59:45 2020
+, Sum: 15
+ID: 11, Date: Tue May  5 21:02:53 2020
+, Sum: 0
+ID: 12, Date: Tue May  5 21:04:51 2020
+, Sum: 5422
+ID: 13, Date: Mon May 18 13:13:44 2020
+, Sum: 316
+ID: 14, Date: Mon May 18 13:26:27 2020
+, Sum: 5200
+ID: 15, Date: Mon May 18 13:35:22 2020
+, Sum: 15
+ID: 16, Date: Mon May 18 13:40:27 2020
+, Sum: 15
+ID: 17, Date: Mon May 18 13:48:41 2020
+, Sum: 233
+ID: 18, Date: Mon May 18 14:00:35 2020
+, Sum: 650
+ID: 19, Date: Mon May 18 14:12:35 2020
+, Sum: 45
+ID: 20, Date: Mon May 18 14:13:17 2020
+, Sum: 600
+ID: 21, Date: Mon May 18 14:14:27 2020
+, Sum: 0
+ID: 25, Date: Mon May 25 19:27:06 2020
+, Sum: 45
+ID: 26, Date: Mon May 25 19:40:49 2020
+, Sum: 216
+ID: 27, Date: Mon May 25 19:53:41 2020
+, Sum: 1300
+ID: 28, Date: Mon May 25 19:53:55 2020
+, Sum: 100
+ID: 29, Date: Mon May 25 19:54:10 2020
+, Sum: 1300
