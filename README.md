@@ -1,4 +1,4 @@
-# Online-Shop
+# Online Shop
 
 **Motivation**
 
